@@ -2,7 +2,7 @@
 Food delivery application created using Python, Flask, html, css, and MySQL. This project was done using SCRUM style agile software development with a group of 6 people. This repository has been moved from the original locked repository into this one.
 
 # Brief overview of the project
-See Project_Documentation_M5_folder_team_01.pdf for an overview of the process of this project
+See Project_Documentation_M5_folder_team_01.pdf for an overview of the process of this project.
 
 # To run
 Install PyCharm. (Professional 2020.3+ required)
