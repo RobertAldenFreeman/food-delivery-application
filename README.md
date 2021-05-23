@@ -1,5 +1,5 @@
 # food-delivery-application
-Food delivery application created using Python, Flask, html, css, and MySQL.
+Food delivery application created using Python, Flask, html, css, and MySQL. This project was done using SCRUM style agile software development with a group of 6 people. This repository has been moved from the original locked repository into this one.
 
 # To run
 Install PyCharm. (Professional 2020.3+ required)
@@ -15,6 +15,3 @@ Install PyCharm. (Professional 2020.3+ required)
 ```application/foodApp/app.py```
 2. Configure the python interpreter and run the application
 3. Navigate the site
-
-Open the repository in PyCharm and navigate to 
-```application/foodApp/app.py```
