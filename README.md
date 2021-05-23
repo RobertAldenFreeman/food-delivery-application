@@ -1,5 +1,5 @@
 # food-delivery-application
-Food delivery application created using Python, Flask, html, css, and MySQL. This project was done using SCRUM style agile software development with a group of 6 people. This repository has been moved from the original locked repository into this one.
+Food delivery application created using Python, Flask, html, css, and MySQL. This project was done using SCRUM style agile software development with a group of 6 people. This repository has been moved from the original locked repository into this one, thus the git history is brief.
 
 # A comprehensive overview of the project
 See Project_Documentation_M5_folder_team_01.pdf for full documentation of the process of this project. For a view of the site UI please see page 66 of this document.
