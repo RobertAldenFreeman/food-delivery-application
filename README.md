@@ -19,4 +19,4 @@ Install PyCharm. (Professional 2020.3+ required)
 2. Configure the python interpreter and run the application
 3. Navigate the site
 
-*Please note that a requirements.txt file is not yet availble, in an upcoming version this list of dependencies will be available.*
+*Please note that a requirements.txt file is not yet available. In an upcoming version this list of dependencies will be available.*
