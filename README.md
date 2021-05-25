@@ -18,3 +18,5 @@ Install PyCharm. (Professional 2020.3+ required)
 ```application/foodApp/app.py```
 2. Configure the python interpreter and run the application
 3. Navigate the site
+
+*Please note that a requirements.txt file is not yet availble, in an upcoming version this will be available*
